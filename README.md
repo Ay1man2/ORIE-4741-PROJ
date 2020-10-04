@@ -1,6 +1,6 @@
 # ORIE-4741-PROJ
 ORIE 4741 Final Project 
 
-Ayman, Joshua Fraser (jdf254), Laura, and Simon
+Group Members: Ayman Naji (an443), Joshua Fraser (jdf254), Laura Gonzalez (lg458), and Simon Chen (sc2284)
 
 Project Goals:
