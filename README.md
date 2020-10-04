@@ -10,7 +10,7 @@ The goal of our project is to analyze fatal police shooting data and identify wh
 
 
 
-The full project proposal can be found in "ORIE 4741 Final Project Proposal.pdf"
+The full project proposal can be found in "Project Proposal.pdf"
 
 
 
