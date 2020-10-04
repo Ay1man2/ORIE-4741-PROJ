@@ -1,6 +1,4 @@
-# Class project for ORIE 4741, Learning With Big Messy Data, at Cornell University
-
-Analysis of US Fatal Police Shootings 
+# ORIE 4741: Analyzing US Fatal Police Shootings
 
 Ayman Naji(an443), Joshua Fraser(jdf254), Laura Gonzalez (lg458), Simon Chen (sc2284)
 
