@@ -1,6 +1,6 @@
 # ORIE 4741: Analyzing US Fatal Police Shootings
 
-Ayman Naji(an443), Joshua Fraser(jdf254), Laura Gonzalez (lg458), Simon Chen (sc2284)
+Ayman Naji(an443), Joshua Fraser(jdf254), Laura Gonzalez (lg458)
 
 
 The goal of our project is to analyze fatal police shooting data and identify whether demographics and location affect the number of shootings. We plan on answering the following questions: 
